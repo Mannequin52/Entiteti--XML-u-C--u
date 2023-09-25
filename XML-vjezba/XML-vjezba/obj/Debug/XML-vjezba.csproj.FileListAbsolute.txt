@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\XML-vjezba\XML-vjezba\bin\Debug\XML-vjezba.exe.config
+C:\Users\ucenik\Documents\XML-vjezba\XML-vjezba\bin\Debug\XML-vjezba.exe
+C:\Users\ucenik\Documents\XML-vjezba\XML-vjezba\bin\Debug\XML-vjezba.pdb
+C:\Users\ucenik\Documents\XML-vjezba\XML-vjezba\obj\Debug\XML-vjezba.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\XML-vjezba\XML-vjezba\obj\Debug\XML-vjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\XML-vjezba\XML-vjezba\obj\Debug\XML-vjezba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\XML-vjezba\XML-vjezba\obj\Debug\XML-vjezba.exe
+C:\Users\ucenik\Documents\XML-vjezba\XML-vjezba\obj\Debug\XML-vjezba.pdb
